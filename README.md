@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Portfolio](https://gelatodigital.com/portfolio)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rodrigo-social-proof-section.netlify.app/](https://rodrigo-social-proof-section.netlify.app/)
 
 ## My process
 
