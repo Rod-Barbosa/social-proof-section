@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Portfolio](https://gelatodigital.com/portfolio)
+- Solution URL: [Portfolio](https://gelatodigital.com/#portfolio)
 - Live Site URL: [https://rodrigo-social-proof-section.netlify.app/](https://rodrigo-social-proof-section.netlify.app/)
 
 ## My process
